@@ -48,7 +48,7 @@ nav{
         font-size: 20px;
         text-align: center;
         padding: 30px 50px;
-        border-bottom: 3px solid #ff8903;
+        border-bottom: 3px solid #ec6c2b;
     }
 
     .intro p{
@@ -75,14 +75,14 @@ nav{
         list-style: none;
         color: #ffffff;
         font-weight: 800;
-        background-color: #ff8903;
+        background-color: #ec6c2b;
     }
 
 .top-img{
   width: 100%;
   height: auto;
   margin: 0 auto;
-  border-top: 8px solid #ff8903;
+  border-top: 8px solid #ec6c2b;
 }
     .top-img img{
         text-align: center;
